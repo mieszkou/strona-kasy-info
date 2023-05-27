@@ -1,5 +1,5 @@
-# strona-kasy-info
+# Domki letniskowe Ala Ikea
 
-No i jak to teraz będzie ?
+Witaj na naszej stronie WWW.
 
-A no tak
+![](logo.png)
